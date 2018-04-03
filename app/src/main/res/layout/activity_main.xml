@@ -25,6 +25,13 @@
                 android:layout_gravity="center"
                 android:text="Team A" />
 
+            <ImageView
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:src="@drawable/michigan"
+                android:layout_gravity="center"
+                />
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -89,6 +96,13 @@
                 android:textSize="30dp"
                 android:layout_gravity="center"
                 android:text="Team B" />
+
+            <ImageView
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:src="@drawable/villa"
+                android:layout_gravity="center"
+                />
 
             <TextView
                 android:layout_width="wrap_content"
